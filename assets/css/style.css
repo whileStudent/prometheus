@@ -114,7 +114,7 @@ body {
 	justify-content: space-between;
 }
 .header__logo {
-	color: #faffde;
+	color: #fff;
 	font-size: 34px;
 	font-family: 'ScriptMT-Bold', sans-serif;
 	font-weight: 700;
@@ -401,3 +401,17 @@ body {
 	background-color: rgba(48, 50, 99, 0.93);
 	border-top: 2px solid #0caba5;
 }
+
+/*Error page*/
+.error-text {
+	color: #ffb348;
+	font-size: 24px;
+	margin-bottom: 10px;
+	
+}
+
+.error {
+	border-radius: 50px;
+	max-width: 100%;
+}
+
